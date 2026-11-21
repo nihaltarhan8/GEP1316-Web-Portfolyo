@@ -5,7 +5,7 @@
 
 ## Canlı web sitesi
 
-Yayınlama yapıldıktan sonra şu adresi README'ye ekleyin: `https://nihaltarhan8.github.io/GEP1316-Odev2-Web-Portfolyo/` **(henüz yayımlandığı doğrulanmadı)**
+https://nihaltarhan8.github.io/GEP1316-Web-Portfolyo/
 
 ## Önceki projeyle bağlantı
 
